@@ -1,6 +1,35 @@
 # Image2Cartoon
 Convert a given image to a cartoon using **Python** and **OpenCV**
 
+## Input image
+
+<p align="center">
+  <img width="250" alt="Original Lena Image" src="https://user-images.githubusercontent.com/72186725/146640563-f6350add-7d00-43e2-9239-c2b68a185c50.png">
+  <br>
+  <em>The Lena Image</em>
+</p>
+
+## Output images
+
+<p align="center">
+  <img width="300" alt="Screenshot 2021-12-18 at 17 41 52" src="https://user-images.githubusercontent.com/72186725/146640777-e2525703-aba9-4bf6-8044-5a8f3ab7e90e.png">
+  <br>
+  <em>Original Image</em>
+</p>
+
+<p align="center">
+<img width="330" alt="Screenshot 2021-12-18 at 17 41 58" src="https://user-images.githubusercontent.com/72186725/146640808-779409fd-d2a9-44c8-9659-da6cbdd40659.png">
+  <br>
+  <em>Image with edges only</em>
+</p>
+
+<p align="center">
+  <img width="300" alt="Screenshot 2021-12-18 at 17 41 55" src="https://user-images.githubusercontent.com/72186725/146640853-5e2deea8-a86b-460e-ba1a-7a5a6f6f120a.png">
+
+  <br>
+  <em>Cartoonised image</em>
+</p>
+
 ## Steps involved
 
 * Get cartoon effect
